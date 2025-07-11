@@ -25,3 +25,5 @@ Capstone Project: OLS Regression-based modeling of inflation and durable goods (
 Key: 
 Gold = AI/ML predictive Model
 Blue = Actual Pricing (CarGurus & Mannheim Used Car Index)
+
+[Back](index.md)
