@@ -11,3 +11,5 @@ I provide strategic advice to help companies:
 - Optimize operational efficiency  
 - Navigate market entry and expansion  
 - Align financial goals with business strategy  
+
+[Back](index.md)
