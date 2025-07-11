@@ -15,5 +15,4 @@ I build robust financial models tailored to your business needs, including:
 - 3 Statement Models
 
 Get in touch to see how I can help you make data-driven financial decisions.
-
 [Back](index.md)
