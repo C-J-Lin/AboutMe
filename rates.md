@@ -13,6 +13,6 @@ Here are my hourly rates for different services:
 | Consulting       | $35           |
 | Financial Modeling| $40           |
 
-*Rates are flexible depending on project scope and duration. Contact me for a customized quote.*
+*Rates are flexible depending on project scope and duration.[ Contact me](mailto:cjl9507@nyu.edu) for a customized quote.*
 
 [Back](index.md)
