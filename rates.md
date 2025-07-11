@@ -15,4 +15,4 @@ Here are my hourly rates for different services:
 
 *Rates are flexible depending on project scope and duration. Contact me for a customized quote.*
 
-Back (index.md)
+[Back](index.md)
