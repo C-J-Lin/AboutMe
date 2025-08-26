@@ -12,7 +12,7 @@ Explore the pages below to learn more about my services and expertise:
 - [Financial Modeling](financial-modeling.md)
 - [Cases, Consulting Competitions, & Exams](cases.md)
 - [Strategy Consulting](strategy.md)  
-- [Arbitrage, Web Scraping, & Commodities Trading](commodities-trading.md)  
+- [Projects](commodities-trading.md)  
 - [Slide Decks & Resources](slides.md)
 - [Rates](rates.md)
 
