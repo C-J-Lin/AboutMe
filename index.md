@@ -15,5 +15,6 @@ Explore the pages below to learn more about my services and expertise:
 - [Arbitrage, Web Scraping, & Commodities Trading](commodities-trading.md)  
 - [Slide Decks & Resources](slides.md)
 - [Rates](rates.md)
-- [Contact Me](contact.md)
+
+*Rates are flexible depending on project scope and duration. [Contact me](contact.md) for a customized quote.*
 
