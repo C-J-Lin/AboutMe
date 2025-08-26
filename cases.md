@@ -25,7 +25,7 @@ Case Competitions:
 - Assorted competitions under NDA
 
  
-*Feel free to contact me for examples and more information*
+*Feel free to contact me for examples and more information [Contact me](contact.md) for a customized quote.*
 
 [Back](index.md)
 
