@@ -26,7 +26,7 @@ Work examples:
 - Rare Earth Metals, Linus Rare Earths Malaysia - Operations & Strategy
 - Emirates - Location as a Business Strategy
  
-*Feel free to contact me for customized presentations.*
+*Rates are flexible depending on project scope and duration. [Contact me](contact.md) for a customized quote.*
 
 
 
