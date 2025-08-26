@@ -20,6 +20,10 @@ Cases Written:
 - AI/ML Modeling Capstone on Inflation and Durable Goods Pricing - Academic Working Paper
 - Lucid Motors and Electric Vehicle - Market Viability and Overview
 
+Case Competitions:
+- KPMG (Runner Up):  Gulf Emiratization Strategy - Workforce Integration and Localization Framework for UAE National Talent Development
+- Assorted competitions under NDA
+
  
 *Feel free to contact me for examples and more information*
 
