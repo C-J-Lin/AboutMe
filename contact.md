@@ -1,6 +1,4 @@
 
-layout: default
-title: Contact Me
 # Get in Touch
 Human Verification Required 🧠
 Before revealing contact info, please solve this simple math problem:
