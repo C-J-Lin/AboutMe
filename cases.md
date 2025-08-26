@@ -3,11 +3,11 @@ layout: default
 title: Exams, Personal Writing, Cases, & Case Competition Work
 ---
 
-# Exams
+# Exams, Personal Writing, Cases, & Case Competition Work
 
-Sample exams available upon NDA and request.
+Samples available upon NDA and request.
 
-Topics include:
+Exam Topics include:
 
 - Riyadh Air & PIF - Competitive Landscape and Capital Projects
 - Lucid Motors & PIF - Scalability and Capital Requirements
