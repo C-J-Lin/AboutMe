@@ -3,3 +3,4 @@ google_analytics:
 title: Curtis Lin Consulting
 description: Financial modeling, strategy, and commodities trading consulting services.
 theme: jekyll-theme-hacker
+favicon: "/favicon.png"
