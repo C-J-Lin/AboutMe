@@ -9,7 +9,8 @@ Welcome! I specialize in venture capital; private equity; **financial modeling**
 
 Explore the pages below to learn more about my services and expertise:
 
-- [Financial Modeling](financial-modeling.md)  
+- [Financial Modeling](financial-modeling.md)
+- [Cases Consulting & Exams - Exam: Riyadh Air, London Heathrow Private Equity M&A Case Exam; Cases: Emiritization (KPMG), Construction Software - Takeoffs, LEO Radar-Synthetic-Aperture Satellites](cases.md)
 - [Strategy Consulting](strategy.md)  
 - [Arbitrage, Web Scraping, & Commodities Trading](commodities-trading.md)  
 - [Slide Decks & Resources](slides.md)
