@@ -13,17 +13,14 @@ Topics include:
 - Lucid Motors & PIF - Scalability and Capital Requirments
 - London Heathrow, Riyadh Air, PIF, QIA, and Ardian - Private Equity Buyout, Non-Market/Market Strategies, and Capital Project
 
-Work examples:
+Cases Written:
 
-- DP World Acquisition of P&O Maritime
-- G42 Political Economy Discussion
-- Precises discussing Electric Vehicle Industry & Green Energy
-- Rare Earth Metals, Linus Rare Earths Malaysia - Operations & Strategy
-- Emirates - Location as a Business Strategy
+- Riyadh Air and Gulf Strategic Market Outlook
+- AI/ML Modeling Capstone on Inflation and Durable Goods Pricing - Academic Working Paper
+- Lucid Motors and Electric Vehicle - Market Viability and Overview
+- AI-Powered Construction Takeoff Software - Market Viability and Go-to-Market Strategy
  
-*Feel free to contact me for customized presentations.*
-
-Rates start at $35/hr, negotiable for volume. 
+*Feel free to contact me for examples and more information*
 
 [Back](index.md)
 
