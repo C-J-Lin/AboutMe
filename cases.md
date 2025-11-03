@@ -5,7 +5,7 @@ title: Exams, Personal Writing, Cases, & Case Competition Work
 
 # Exams, Personal Writing, Cases, & Case Competition Work
 
-Samples available upon NDA and request.
+Samples available upon request.
 
 Exam Topics include:
 
@@ -13,16 +13,18 @@ Exam Topics include:
 - Lucid Motors & PIF - Scalability and Capital Requirements
 - London Heathrow, Riyadh Air, PIF, QIA, and Ardian - Private Equity Buyout, Non-Market/Market Strategies, and Capital Project
 
-Cases Written:
+Cases & Papers Written:
 - AI-Powered Construction Takeoff Software - Market Viability and Go-to-Market Strategy
 - Low Earth Orbit Satellite Project - Total Market Assessment, Sector Assessment, and Working Paper on American Intelligence Community
 - Riyadh Air and Gulf Aviation - Strategic Market Outlook
-- AI/ML Modeling Capstone on Inflation and Durable Goods Pricing - Academic Working Paper
-- Lucid Motors and Electric Vehicle - Market Viability and Overview
+- Ardian and the Public Investment Fund Acquisition of London Heathrow
+- AI/ML Modeling Capstone on Inflation and Durable Goods Pricing - Academic Paper
+- Lucid Motors and Electric Vehicle - Market Viability and Overview - Academic Paper
 
 Case Competitions:
 - KPMG (Runner Up):  Gulf Emiratization Strategy - Workforce Integration and Localization Framework for UAE National Talent Development
-- Assorted competitions under NDA
+- Student Consulting Project: Competitive breakdown, fee and market gap analysis - UAE Private Wealth Management Firm
+
 
  
 *Feel free to contact me for examples and more information [Contact me](contact.md) for a customized quote.*
