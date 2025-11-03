@@ -10,7 +10,7 @@ title: What I'm Good At
 
 ![2d477e56-ef45-48e1-8e23-0b1ba7df38bb](https://github.com/user-attachments/assets/70dfef66-2d65-4855-ae71-32a9fb8959a8)
 
-**2. I explain complex concepts and context to others:** Currently at NYU Stern, I am an MBA TA and researcher; it's my job to find then take messy real-world events and distill them into actionable lessons, communicated via clean case studies and slides. I explained the success of the airline Emirates to MBA students with little to no aviation or UAE background, slides/minicase attached; I also created case-based exams, including one where I contextualized the impact of geopolitics on the semiconductor industry, evaluating students by having them apply the frameworks we taught without needing prior technical knowledge. Examples of my work product are attached in my email.
+**2. I can explain complex concepts and context to others:** Currently at NYU Stern, I am an MBA TA and researcher; it's my job to find then take messy real-world events and distill them into actionable lessons, communicated via clean case studies and slides. I explained the success of the airline Emirates to MBA students with little to no aviation or UAE background, slides/minicase attached; I also created case-based exams, including one where I contextualized the impact of geopolitics on the semiconductor industry, evaluating students by having them apply the frameworks we taught without needing prior technical knowledge. Examples of my work product are attached in my email.
 
 ![IMG_3255](https://github.com/user-attachments/assets/a716520a-6666-4ea6-8e54-67d31bfbf19d)
 
