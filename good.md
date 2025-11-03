@@ -1,3 +1,11 @@
+---
+layout: default
+title: What I'm Good At
+---
+
+# About Me - For Soma Capital
+
+
 1. I find problems and act to solve them immediately. A business contact needed to ship a $3M hypercar from NYC to Vietnam → introduced him to the station manager of Turkish Airlines for NYC, got the car shipped to Hanoi via Istanbul on a Boeing 777; I connected an engineer to Rove, knowing they needed domain talent → emailed them introducing an engineer I know with extensive travel industry experience; friend got stuck at London Heathrow overnight → found him with a private jet operator with an empty leg flight deal to Switzerland the same day; a friend mentioned struggling with a sales case study @ midnight → hopped on a call and walked them through my own D2C scaling approach on the spot. 
 
 2. I explain complex concepts and context to others: Currently at NYU Stern, I am an MBA TA and researcher; it's my job to find then take messy real-world events and distill them into actionable lessons, communicated via clean case studies and slides. I explained the success of the airline Emirates to MBA students with little to no aviation or UAE background, slides/minicase attached; I also created case-based exams, including one where I contextualized the impact of geopolitics on the semiconductor industry, evaluating students by having them apply the frameworks we taught without needing prior technical knowledge. 
@@ -5,3 +13,5 @@
 3. I am great at research and finding the information that others can't. I don't just Google or read articles and research; I leverage networks, joining Discord servers, and becoming a key node in niche community hubs like forums, solving my itch to see the whole picture. I joined a finance community forum around car leases when I was 16, eventually becoming a major organizer and community leader - even getting hired at BMW into strategy at their financial services division. Some of my best deals include a $400 per month lease on a $130k Mercedes S-Class, or a $350 per month lease on a $150k Porsche Taycan. Similarly, with credit card churning, four years ago, I was a 'shrimp' earning 120K miles a year from YouTube tutorials, slowly infiltrating into a secretive online community of whales (private discords/forums/Slack chats). Being based in the Middle East, I built credibility in the space by sharing surgical insights, tips, and tricks about Middle Eastern airlines that shifted how I was perceived. Now, I've created and shared profitable strategies in the space, and am earning 5M+ miles annually as a key node in dozens of communities. I've learned the pattern I apply everywhere: dig to find unfair insight, go deep into communities, build, then scale.
 
 4. I am a salesperson, making me great at outreach that reaches decision-makers: I ran sales as a founding team member at the startup AutoCompanion, scaling from $0 to $1.2M ARR in under a year. In my current role, I reached out to 200+ speakers for my professor in under a month using LinkedIn and automated email assumption. I made dozens of calls to find interested guest speakers, reaching real decision makers, including the head of innovation at Etihad, the head of CVC at Emirates, the heads of both lobbying and strategic investment at G42 (the AI giant), and directors/VPs at the sovereign wealth fund Mubadala and E& Group ($50B Emirati telecom company). I achieved a close to 30% response rate by researching hierarchies, personalizing each message, and leveraging network proximity.
+
+[Back](index.md)
