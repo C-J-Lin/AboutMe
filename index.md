@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-# Curtis Lin Consulting
+# Curtis Lin 
 
 Welcome! I specialize in venture capital; private equity; **financial modeling**; **business strategy consulting, research, and material creation**; and have several personal projects involving **web-scraping**, **arbitrage**, and **commodities trading**.
 
 Explore the pages below to learn more about my services and expertise:
-
+- [My Story](mystory.md)
 - [Financial Modeling](financial-modeling.md)
 - [Cases, Consulting Competitions, & Exams](cases.md)
 - [Strategy Consulting](strategy.md)  
